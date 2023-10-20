@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&display=swap');
+body * {
+    font-family: 'Syne', sans-serif;
+    background-color: ;
+}
+
+/* HEADER */
+
+#site-header.sticky-top {
+    position: sticky;
+    background-color: #FFFFFF;
+
+}
+
+li.menu-item a {
+    color : black;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+li.menu-item a:hover,
+li.menu-item.current-menu-item a {
+    color: #FFFFFF !important;
+    background-color: #DC9F96;
+    text-decoration: none !important;
+}
+/* BODY */
+
+
+/* FOOTER */
+#site-footer {
+    text-align: center;
+    color: black;
+    background-color: white !important;
+ }
+ .header-footer-group {
+      
+ }
+
+ /* HOME /*
+
+
+ /* NOUS RECONTRER */
+
+ /* COMMANDER */
+
+ #site-content-commander {
+    background-color: #3B8E46;
+    color: #FFFFFF;
+ }
