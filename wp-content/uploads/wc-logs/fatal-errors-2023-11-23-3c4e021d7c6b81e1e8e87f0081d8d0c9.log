@@ -1,0 +1,10 @@
+2023-11-23T08:10:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\elementor\includes\template-library\sources\local.php on line 18
+
+2023-11-23T08:16:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\Requests\src\Transport\Curl.php on line 510
+
+2023-11-23T09:01:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\elementor\includes\template-library\manager.php on line 13
+
+2023-11-23T12:30:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\elementor\modules\page-templates\module.php on line 13
+
+2023-11-23T13:57:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\elementor\app\modules\site-editor\module.php on line 7
+

@@ -1,0 +1,8 @@
+2023-12-01T09:49:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\widgets\class-wp-widget-recent-posts.php on line 185
+
+2023-12-01T09:50:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\royal-elementor-addons\modules\image-accordion\module.php on line 24
+
+2023-12-01T09:50:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\functions.php on line 6691
+
+2023-12-01T09:50:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-dashboard.php on line 12
+

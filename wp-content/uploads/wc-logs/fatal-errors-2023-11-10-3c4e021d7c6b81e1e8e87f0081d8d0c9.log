@@ -1,0 +1,18 @@
+2023-11-10T09:11:14+00:00 CRITICAL Uncaught Error: Call to a member function enqueue_styles() on null in C:\MAMP\htdocs\Planty\wp-content\plugins\royal-elementor-addons\admin\includes\wpr-render-templates.php:201
+Stack trace:
+#0 C:\MAMP\htdocs\Planty\wp-includes\class-wp-hook.php(310): WprAddons\Admin\Includes\WPR_Render_Templates->enqueue_scripts('')
+#1 C:\MAMP\htdocs\Planty\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 C:\MAMP\htdocs\Planty\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\MAMP\htdocs\Planty\wp-includes\script-loader.php(2225): do_action('wp_enqueue_scri...')
+#4 C:\MAMP\htdocs\Planty\wp-includes\class-wp-customize-manager.php(457): wp_enqueue_scripts()
+#5 C:\MAMP\htdocs\Planty\wp-includes\class-wp-customize-manager.php(554): WP_Customize_Manager->wp_die(0, 'Non-existent ch...')
+#6 C:\MAMP\htdocs\Planty\wp-includes\class-wp-hook.php(310): WP_Customize_Manager->setup_theme('')
+#7 C:\MAMP\htdocs\Planty\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#8 C:\MAMP\htdo in C:\MAMP\htdocs\Planty\wp-content\plugins\royal-elementor-addons\admin\includes\wpr-render-templates.php on line 201
+
+2023-11-10T09:49:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\themes\astra\inc\customizer\configurations\builder\base\class-astra-social-icon-component-configs.php on line 13
+
+2023-11-10T12:54:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-admin\includes\media.php on line 3869
+
+2023-11-10T13:30:30+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 16384 bytes) in C:\MAMP\htdocs\Planty\wp-content\plugins\elementor\includes\base\controls-stack.php on line 633
+

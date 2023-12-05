@@ -1,0 +1,10 @@
+2023-11-14T08:52:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\elementor\modules\promotions\module.php on line 15
+
+2023-11-14T09:36:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\royal-elementor-addons\modules\nav-menu\module.php on line 24
+
+2023-11-14T09:57:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\functions.php on line 6691
+
+2023-11-14T13:27:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\elementor\includes\template-library\sources\local.php on line 18
+
+2023-11-14T13:57:57+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 32768 bytes) in C:\MAMP\htdocs\Planty\wp-includes\blocks\blocks-json.php on line 3
+

@@ -1,10 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&display=swap');
 body * {
     font-family: 'Syne', sans-serif;
-    background-color: ;
 }
 
+@media screen and (max-widht:1440px) {
+    
+}
+@media (min-width: 922px) {
+    .ast-container {
+      max-width: 1440px;
+    }
+
+
 /* HEADER */
+.ast-container {
+    padding-right: 3px;
+    padding-left: 33px;
+}
 
 #site-header.sticky-top {
     position: sticky;
@@ -12,34 +24,72 @@ body * {
 
 }
 
-li.menu-item a {
-    color : black;
-    background-color: #FFFFFF;
+
+li.menu-item-204 a {
+    color: #FFF !important;
+    font-weight: 700;
+    line-height: 19.2px;
+    background-color: #E0B9B4;
+    text-decoration: none;
     text-align: center;
+    width: 234px;
 }
-li.menu-item a:hover,
-li.menu-item.current-menu-item a {
+
+
+li.menu-item-204 a:hover {
     color: #FFFFFF !important;
-    background-color: #DC9F96;
+    background-color: #C02E44;
     text-decoration: none !important;
 }
+
+.menu-item-204 {
+    order:4;
+}
+
+li.menu-item-204 a, #text {
+    align-content: center;
+    justify-content: center;
+}
+
 /* BODY */
 
 
 /* FOOTER */
 #site-footer {
     text-align: center;
+    text-decoration: none;
     color: black;
-    background-color: white !important;
- }
- .header-footer-group {
-      
- }
+    background-color: white;
+}
 
- /* HOME /*
+ /* HOME */
 
+.elementor-168 .elementor-element.elementor-element-8a37110 .elementor-button {
+    width: 198px;
+}
+
+.elementor-168 .elementor-element.elementor-element-849ab1f .elementor-heading-title {
+    width: 497px;
+    height: 120px;
+    display: flex;
+    align-content: center;
+}
 
  /* NOUS RECONTRER */
+
+ 
+.ast-builder-menu-1 .menu-item.current-menu-item > .menu-link, .ast-builder-menu-1 .inline-on-mobile .menu-item.current-menu-item > .ast-menu-toggle, .ast-builder-menu-1 .current-menu-ancestor > .menu-link {
+    color: black;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15.6px;
+}
+
+.elementor-198 .elementor-element.elementor-element-fbf0c25 .wpr-field-group.wpr-form-field-type-submit {
+    width: 198px;
+    height: 55px;
+}
+
 
  /* COMMANDER */
 
@@ -47,3 +97,98 @@ li.menu-item.current-menu-item a {
     background-color: #3B8E46;
     color: #FFFFFF;
  }
+
+ /* FORMULAIRE COMMANDE */
+
+ #formulaire-responsive {
+    max-width: 1440px;
+    margin: 0 auto; width: 100%;
+    align-items: center;
+    align-content: center;
+ }
+
+ .title {
+    color: #FFF;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+ }
+ 
+ .rang-form {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    align-items: center;
+    align-content: center;
+    color: white;
+ }
+
+ .rang-infos {
+    display: flex;
+    flex-direction: column;    
+    width: 100%;
+    color : #FFFFFF;
+ }
+
+.rang-infos, .rang-livraison {
+    align-items: center;
+    align-content: center;
+}
+
+.rang-infos {
+    border-right: 1px solid white;
+}
+
+ .colonne1 {
+    margin-right: 40px;
+ }
+
+.wpcf7 input[type="text"], .wpcf7 input[type="email"] {
+    width: 100%;
+    border-radius: 7px;
+    background: #FFF;
+    width: 383px;
+    height: 71px;
+}
+
+.submit {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+#button {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+
+.rang-form {
+    width: 100%;
+}
+
+.nombrecommande  {
+    font-family: inter;
+    color: black;
+    max-width: 39px;
+    max-height: 56px;
+    align-items: center;
+    vertical-align: center;
+}
+
+.menu-toggle, button, .ast-button, .ast-custom-button, .button, input#submit, input[type="button"], input[type="submit"], input[type="reset"], #comments .submit, .search .search-submit, form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button, body .wp-block-file .wp-block-file__button, .search .search-submit, .woocommerce-js a.button, .woocommerce button.button, .woocommerce .woocommerce-message a.button, .woocommerce #respond input#submit.alt, .woocommerce input.button.alt, .woocommerce input.button, .woocommerce input.button:disabled, .woocommerce input.button:disabled[disabled], .woocommerce input.button:disabled:hover, .woocommerce input.button:disabled[disabled]:hover, .woocommerce #respond input#submit, .woocommerce button.button.alt.disabled, .wc-block-grid__products .wc-block-grid__product .wp-block-button__link, .wc-block-grid__product-onsale, [CLASS*="wc-block"] button, .woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping), .woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout, .woocommerce button.button.alt.disabled.wc-variation-selection-needed {
+    width: 198px;
+    height: 55px;
+}
+
+.ast-builder-menu-1 .menu-item.current-menu-item > .menu-link, .ast-builder-menu-1 .inline-on-mobile .menu-item.current-menu-item > .ast-menu-toggle, .ast-builder-menu-1 .current-menu-ancestor > .menu-link {
+    font-size: 16px;
+}
+
+.main-header-menu > .menu-item > .menu-link, #astra-footer-menu > .menu-item > .menu-link {
+    font-weight: 700;
+    font-size: 13px; }

@@ -1,0 +1,8 @@
+2023-11-28T07:58:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\woocommerce\src\Admin\Features\PaymentGatewaySuggestions\Init.php on line 8
+
+2023-11-28T08:15:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\contact-form-7\modules\acceptance.php on line 8
+
+2023-11-28T10:55:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\royal-elementor-addons\modules\countdown\module.php on line 6
+
+2023-11-28T11:15:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\elementor\core\editor\notice-bar.php on line 9
+

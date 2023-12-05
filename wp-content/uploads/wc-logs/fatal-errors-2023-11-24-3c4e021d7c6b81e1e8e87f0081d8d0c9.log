@@ -1,0 +1,16 @@
+2023-11-24T08:12:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\woocommerce\src\Admin\API\Reports\DataStore.php on line 8
+
+2023-11-24T09:07:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\woocommerce\src\Internal\Admin\FeaturePlugin.php on line 8
+
+2023-11-24T09:08:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\elementor\modules\kit-elements-defaults\import-export\import-export.php on line 9
+
+2023-11-24T09:08:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-admin\includes\misc.php on line 1645
+
+2023-11-24T09:12:23+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in C:\MAMP\htdocs\Planty\wp-content\themes\planty\functions.php on line 30
+
+2023-11-24T09:12:27+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in C:\MAMP\htdocs\Planty\wp-content\themes\planty\functions.php on line 30
+
+2023-11-24T09:20:30+00:00 CRITICAL syntax error, unexpected end of file in C:\MAMP\htdocs\Planty\wp-content\themes\planty\functions.php on line 37
+
+2023-11-24T14:11:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\royal-elementor-addons\modules\button\module.php on line 6
+

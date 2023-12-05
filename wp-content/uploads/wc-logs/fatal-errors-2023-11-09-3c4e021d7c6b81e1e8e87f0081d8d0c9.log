@@ -1,0 +1,10 @@
+2023-11-09T08:56:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\themes\astra\inc\core\class-gutenberg-editor-css.php on line 14
+
+2023-11-09T08:57:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\functions.php on line 6691
+
+2023-11-09T12:08:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\royal-elementor-addons\modules\data-table\module.php on line 24
+
+2023-11-09T12:08:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AttributeFilter.php on line 38
+
+2023-11-09T21:46:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\royal-elementor-addons\modules\theme-builder\woocommerce\product-price\module.php on line 24
+
